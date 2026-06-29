@@ -14,7 +14,7 @@ st.write(
     "Explore health indicators across countries, regions, and years using interactive filters and charts."
 )
 
-SAMPLE_PATH = Path("data/sample_health_indicators.csv")
+SAMPLE_PATH = Path("sample_health_indicators.csv")
 
 
 @st.cache_data
