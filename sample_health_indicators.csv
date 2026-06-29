@@ -1,0 +1,361 @@
+Country,Region,Year,Indicator,Value
+Australia,Oceania,2015,Obesity Rate,23.51
+Australia,Oceania,2015,Smoking Rate,9.81
+Australia,Oceania,2015,Anaemia Rate,40.33
+Australia,Oceania,2015,Life Expectancy,66.19
+Australia,Oceania,2015,Diabetes Rate,6.69
+Australia,Oceania,2016,Obesity Rate,34.96
+Australia,Oceania,2016,Smoking Rate,14.29
+Australia,Oceania,2016,Anaemia Rate,33.39
+Australia,Oceania,2016,Life Expectancy,79.66
+Australia,Oceania,2016,Diabetes Rate,7.1
+Australia,Oceania,2017,Obesity Rate,21.41
+Australia,Oceania,2017,Smoking Rate,21.91
+Australia,Oceania,2017,Anaemia Rate,14.98
+Australia,Oceania,2017,Life Expectancy,72.11
+Australia,Oceania,2017,Diabetes Rate,9.26
+Australia,Oceania,2018,Obesity Rate,32.57
+Australia,Oceania,2018,Smoking Rate,21.52
+Australia,Oceania,2018,Anaemia Rate,40.01
+Australia,Oceania,2018,Life Expectancy,78.88
+Australia,Oceania,2018,Diabetes Rate,11.46
+Australia,Oceania,2019,Obesity Rate,20.61
+Australia,Oceania,2019,Smoking Rate,14.57
+Australia,Oceania,2019,Anaemia Rate,43.18
+Australia,Oceania,2019,Life Expectancy,81.96
+Australia,Oceania,2019,Diabetes Rate,8.81
+Australia,Oceania,2020,Obesity Rate,27.39
+Australia,Oceania,2020,Smoking Rate,17.39
+Australia,Oceania,2020,Anaemia Rate,30.3
+Australia,Oceania,2020,Life Expectancy,83.7
+Australia,Oceania,2020,Diabetes Rate,5.92
+Australia,Oceania,2021,Obesity Rate,23.55
+Australia,Oceania,2021,Smoking Rate,22.84
+Australia,Oceania,2021,Anaemia Rate,13.75
+Australia,Oceania,2021,Life Expectancy,81.08
+Australia,Oceania,2021,Diabetes Rate,6.39
+Australia,Oceania,2022,Obesity Rate,31.9
+Australia,Oceania,2022,Smoking Rate,7.96
+Australia,Oceania,2022,Anaemia Rate,26.46
+Australia,Oceania,2022,Life Expectancy,67.92
+Australia,Oceania,2022,Diabetes Rate,12.0
+Australia,Oceania,2023,Obesity Rate,22.69
+Australia,Oceania,2023,Smoking Rate,17.88
+Australia,Oceania,2023,Anaemia Rate,11.65
+Australia,Oceania,2023,Life Expectancy,67.03
+Australia,Oceania,2023,Diabetes Rate,16.5
+Bangladesh,Asia,2015,Obesity Rate,33.16
+Bangladesh,Asia,2015,Smoking Rate,25.86
+Bangladesh,Asia,2015,Anaemia Rate,32.67
+Bangladesh,Asia,2015,Life Expectancy,69.79
+Bangladesh,Asia,2015,Diabetes Rate,12.44
+Bangladesh,Asia,2016,Obesity Rate,30.84
+Bangladesh,Asia,2016,Smoking Rate,17.38
+Bangladesh,Asia,2016,Anaemia Rate,26.82
+Bangladesh,Asia,2016,Life Expectancy,74.81
+Bangladesh,Asia,2016,Diabetes Rate,5.74
+Bangladesh,Asia,2017,Obesity Rate,32.7
+Bangladesh,Asia,2017,Smoking Rate,16.05
+Bangladesh,Asia,2017,Anaemia Rate,24.63
+Bangladesh,Asia,2017,Life Expectancy,74.04
+Bangladesh,Asia,2017,Diabetes Rate,14.94
+Bangladesh,Asia,2018,Obesity Rate,21.41
+Bangladesh,Asia,2018,Smoking Rate,9.47
+Bangladesh,Asia,2018,Anaemia Rate,23.73
+Bangladesh,Asia,2018,Life Expectancy,70.39
+Bangladesh,Asia,2018,Diabetes Rate,11.1
+Bangladesh,Asia,2019,Obesity Rate,36.02
+Bangladesh,Asia,2019,Smoking Rate,18.72
+Bangladesh,Asia,2019,Anaemia Rate,14.95
+Bangladesh,Asia,2019,Life Expectancy,78.22
+Bangladesh,Asia,2019,Diabetes Rate,8.65
+Bangladesh,Asia,2020,Obesity Rate,25.73
+Bangladesh,Asia,2020,Smoking Rate,11.86
+Bangladesh,Asia,2020,Anaemia Rate,15.46
+Bangladesh,Asia,2020,Life Expectancy,84.95
+Bangladesh,Asia,2020,Diabetes Rate,6.02
+Bangladesh,Asia,2021,Obesity Rate,36.03
+Bangladesh,Asia,2021,Smoking Rate,15.18
+Bangladesh,Asia,2021,Anaemia Rate,36.71
+Bangladesh,Asia,2021,Life Expectancy,79.94
+Bangladesh,Asia,2021,Diabetes Rate,9.84
+Bangladesh,Asia,2022,Obesity Rate,33.7
+Bangladesh,Asia,2022,Smoking Rate,9.59
+Bangladesh,Asia,2022,Anaemia Rate,35.68
+Bangladesh,Asia,2022,Life Expectancy,71.28
+Bangladesh,Asia,2022,Diabetes Rate,9.5
+Bangladesh,Asia,2023,Obesity Rate,38.57
+Bangladesh,Asia,2023,Smoking Rate,17.5
+Bangladesh,Asia,2023,Anaemia Rate,19.18
+Bangladesh,Asia,2023,Life Expectancy,69.02
+Bangladesh,Asia,2023,Diabetes Rate,7.71
+India,Asia,2015,Obesity Rate,23.31
+India,Asia,2015,Smoking Rate,26.03
+India,Asia,2015,Anaemia Rate,14.94
+India,Asia,2015,Life Expectancy,83.37
+India,Asia,2015,Diabetes Rate,13.07
+India,Asia,2016,Obesity Rate,32.35
+India,Asia,2016,Smoking Rate,19.15
+India,Asia,2016,Anaemia Rate,26.06
+India,Asia,2016,Life Expectancy,68.48
+India,Asia,2016,Diabetes Rate,12.16
+India,Asia,2017,Obesity Rate,35.02
+India,Asia,2017,Smoking Rate,11.26
+India,Asia,2017,Anaemia Rate,28.29
+India,Asia,2017,Life Expectancy,82.37
+India,Asia,2017,Diabetes Rate,5.28
+India,Asia,2018,Obesity Rate,35.35
+India,Asia,2018,Smoking Rate,26.53
+India,Asia,2018,Anaemia Rate,15.99
+India,Asia,2018,Life Expectancy,69.18
+India,Asia,2018,Diabetes Rate,8.68
+India,Asia,2019,Obesity Rate,30.82
+India,Asia,2019,Smoking Rate,22.38
+India,Asia,2019,Anaemia Rate,22.44
+India,Asia,2019,Life Expectancy,74.07
+India,Asia,2019,Diabetes Rate,10.73
+India,Asia,2020,Obesity Rate,35.38
+India,Asia,2020,Smoking Rate,14.23
+India,Asia,2020,Anaemia Rate,26.48
+India,Asia,2020,Life Expectancy,83.59
+India,Asia,2020,Diabetes Rate,9.08
+India,Asia,2021,Obesity Rate,34.23
+India,Asia,2021,Smoking Rate,12.3
+India,Asia,2021,Anaemia Rate,24.2
+India,Asia,2021,Life Expectancy,79.67
+India,Asia,2021,Diabetes Rate,4.79
+India,Asia,2022,Obesity Rate,25.2
+India,Asia,2022,Smoking Rate,22.36
+India,Asia,2022,Anaemia Rate,19.8
+India,Asia,2022,Life Expectancy,78.56
+India,Asia,2022,Diabetes Rate,5.91
+India,Asia,2023,Obesity Rate,31.8
+India,Asia,2023,Smoking Rate,23.31
+India,Asia,2023,Anaemia Rate,16.29
+India,Asia,2023,Life Expectancy,77.79
+India,Asia,2023,Diabetes Rate,13.42
+United States,North America,2015,Obesity Rate,23.32
+United States,North America,2015,Smoking Rate,16.19
+United States,North America,2015,Anaemia Rate,17.31
+United States,North America,2015,Life Expectancy,74.91
+United States,North America,2015,Diabetes Rate,7.02
+United States,North America,2016,Obesity Rate,24.3
+United States,North America,2016,Smoking Rate,23.25
+United States,North America,2016,Anaemia Rate,27.32
+United States,North America,2016,Life Expectancy,68.64
+United States,North America,2016,Diabetes Rate,14.41
+United States,North America,2017,Obesity Rate,21.35
+United States,North America,2017,Smoking Rate,22.89
+United States,North America,2017,Anaemia Rate,38.15
+United States,North America,2017,Life Expectancy,67.94
+United States,North America,2017,Diabetes Rate,9.36
+United States,North America,2018,Obesity Rate,35.36
+United States,North America,2018,Smoking Rate,17.0
+United States,North America,2018,Anaemia Rate,18.49
+United States,North America,2018,Life Expectancy,83.85
+United States,North America,2018,Diabetes Rate,13.88
+United States,North America,2019,Obesity Rate,35.04
+United States,North America,2019,Smoking Rate,11.01
+United States,North America,2019,Anaemia Rate,38.79
+United States,North America,2019,Life Expectancy,76.72
+United States,North America,2019,Diabetes Rate,15.0
+United States,North America,2020,Obesity Rate,23.01
+United States,North America,2020,Smoking Rate,12.63
+United States,North America,2020,Anaemia Rate,25.73
+United States,North America,2020,Life Expectancy,79.48
+United States,North America,2020,Diabetes Rate,8.98
+United States,North America,2021,Obesity Rate,37.0
+United States,North America,2021,Smoking Rate,23.36
+United States,North America,2021,Anaemia Rate,12.92
+United States,North America,2021,Life Expectancy,70.92
+United States,North America,2021,Diabetes Rate,14.56
+United States,North America,2022,Obesity Rate,25.29
+United States,North America,2022,Smoking Rate,16.27
+United States,North America,2022,Anaemia Rate,17.03
+United States,North America,2022,Life Expectancy,66.53
+United States,North America,2022,Diabetes Rate,13.32
+United States,North America,2023,Obesity Rate,23.25
+United States,North America,2023,Smoking Rate,26.66
+United States,North America,2023,Anaemia Rate,20.54
+United States,North America,2023,Life Expectancy,85.21
+United States,North America,2023,Diabetes Rate,7.11
+United Kingdom,Europe,2015,Obesity Rate,29.52
+United Kingdom,Europe,2015,Smoking Rate,16.94
+United Kingdom,Europe,2015,Anaemia Rate,19.31
+United Kingdom,Europe,2015,Life Expectancy,71.36
+United Kingdom,Europe,2015,Diabetes Rate,9.25
+United Kingdom,Europe,2016,Obesity Rate,35.09
+United Kingdom,Europe,2016,Smoking Rate,14.51
+United Kingdom,Europe,2016,Anaemia Rate,17.69
+United Kingdom,Europe,2016,Life Expectancy,78.64
+United Kingdom,Europe,2016,Diabetes Rate,13.38
+United Kingdom,Europe,2017,Obesity Rate,33.16
+United Kingdom,Europe,2017,Smoking Rate,17.83
+United Kingdom,Europe,2017,Anaemia Rate,42.9
+United Kingdom,Europe,2017,Life Expectancy,80.63
+United Kingdom,Europe,2017,Diabetes Rate,13.82
+United Kingdom,Europe,2018,Obesity Rate,24.09
+United Kingdom,Europe,2018,Smoking Rate,26.15
+United Kingdom,Europe,2018,Anaemia Rate,26.75
+United Kingdom,Europe,2018,Life Expectancy,73.43
+United Kingdom,Europe,2018,Diabetes Rate,14.33
+United Kingdom,Europe,2019,Obesity Rate,30.79
+United Kingdom,Europe,2019,Smoking Rate,14.06
+United Kingdom,Europe,2019,Anaemia Rate,15.38
+United Kingdom,Europe,2019,Life Expectancy,78.05
+United Kingdom,Europe,2019,Diabetes Rate,8.45
+United Kingdom,Europe,2020,Obesity Rate,29.51
+United Kingdom,Europe,2020,Smoking Rate,16.16
+United Kingdom,Europe,2020,Anaemia Rate,32.7
+United Kingdom,Europe,2020,Life Expectancy,68.17
+United Kingdom,Europe,2020,Diabetes Rate,11.05
+United Kingdom,Europe,2021,Obesity Rate,27.28
+United Kingdom,Europe,2021,Smoking Rate,19.64
+United Kingdom,Europe,2021,Anaemia Rate,12.87
+United Kingdom,Europe,2021,Life Expectancy,73.51
+United Kingdom,Europe,2021,Diabetes Rate,11.25
+United Kingdom,Europe,2022,Obesity Rate,36.52
+United Kingdom,Europe,2022,Smoking Rate,19.55
+United Kingdom,Europe,2022,Anaemia Rate,30.84
+United Kingdom,Europe,2022,Life Expectancy,71.83
+United Kingdom,Europe,2022,Diabetes Rate,10.51
+United Kingdom,Europe,2023,Obesity Rate,23.08
+United Kingdom,Europe,2023,Smoking Rate,14.21
+United Kingdom,Europe,2023,Anaemia Rate,29.0
+United Kingdom,Europe,2023,Life Expectancy,71.56
+United Kingdom,Europe,2023,Diabetes Rate,9.7
+Brazil,South America,2015,Obesity Rate,34.52
+Brazil,South America,2015,Smoking Rate,12.9
+Brazil,South America,2015,Anaemia Rate,39.56
+Brazil,South America,2015,Life Expectancy,83.07
+Brazil,South America,2015,Diabetes Rate,10.69
+Brazil,South America,2016,Obesity Rate,22.82
+Brazil,South America,2016,Smoking Rate,21.0
+Brazil,South America,2016,Anaemia Rate,21.45
+Brazil,South America,2016,Life Expectancy,71.9
+Brazil,South America,2016,Diabetes Rate,12.12
+Brazil,South America,2017,Obesity Rate,23.5
+Brazil,South America,2017,Smoking Rate,21.17
+Brazil,South America,2017,Anaemia Rate,15.16
+Brazil,South America,2017,Life Expectancy,67.1
+Brazil,South America,2017,Diabetes Rate,8.73
+Brazil,South America,2018,Obesity Rate,31.01
+Brazil,South America,2018,Smoking Rate,11.19
+Brazil,South America,2018,Anaemia Rate,22.2
+Brazil,South America,2018,Life Expectancy,74.13
+Brazil,South America,2018,Diabetes Rate,9.05
+Brazil,South America,2019,Obesity Rate,20.77
+Brazil,South America,2019,Smoking Rate,11.45
+Brazil,South America,2019,Anaemia Rate,12.99
+Brazil,South America,2019,Life Expectancy,79.6
+Brazil,South America,2019,Diabetes Rate,11.18
+Brazil,South America,2020,Obesity Rate,27.06
+Brazil,South America,2020,Smoking Rate,8.9
+Brazil,South America,2020,Anaemia Rate,29.55
+Brazil,South America,2020,Life Expectancy,72.84
+Brazil,South America,2020,Diabetes Rate,13.64
+Brazil,South America,2021,Obesity Rate,36.92
+Brazil,South America,2021,Smoking Rate,20.5
+Brazil,South America,2021,Anaemia Rate,14.66
+Brazil,South America,2021,Life Expectancy,75.58
+Brazil,South America,2021,Diabetes Rate,15.15
+Brazil,South America,2022,Obesity Rate,35.18
+Brazil,South America,2022,Smoking Rate,14.25
+Brazil,South America,2022,Anaemia Rate,22.47
+Brazil,South America,2022,Life Expectancy,68.19
+Brazil,South America,2022,Diabetes Rate,6.22
+Brazil,South America,2023,Obesity Rate,25.45
+Brazil,South America,2023,Smoking Rate,8.55
+Brazil,South America,2023,Anaemia Rate,38.81
+Brazil,South America,2023,Life Expectancy,72.27
+Brazil,South America,2023,Diabetes Rate,5.5
+South Africa,Africa,2015,Obesity Rate,22.46
+South Africa,Africa,2015,Smoking Rate,20.69
+South Africa,Africa,2015,Anaemia Rate,32.96
+South Africa,Africa,2015,Life Expectancy,69.46
+South Africa,Africa,2015,Diabetes Rate,7.32
+South Africa,Africa,2016,Obesity Rate,34.16
+South Africa,Africa,2016,Smoking Rate,17.37
+South Africa,Africa,2016,Anaemia Rate,32.08
+South Africa,Africa,2016,Life Expectancy,67.83
+South Africa,Africa,2016,Diabetes Rate,11.63
+South Africa,Africa,2017,Obesity Rate,23.9
+South Africa,Africa,2017,Smoking Rate,22.45
+South Africa,Africa,2017,Anaemia Rate,29.97
+South Africa,Africa,2017,Life Expectancy,83.72
+South Africa,Africa,2017,Diabetes Rate,14.95
+South Africa,Africa,2018,Obesity Rate,19.76
+South Africa,Africa,2018,Smoking Rate,8.34
+South Africa,Africa,2018,Anaemia Rate,15.95
+South Africa,Africa,2018,Life Expectancy,77.2
+South Africa,Africa,2018,Diabetes Rate,6.58
+South Africa,Africa,2019,Obesity Rate,32.6
+South Africa,Africa,2019,Smoking Rate,25.78
+South Africa,Africa,2019,Anaemia Rate,15.95
+South Africa,Africa,2019,Life Expectancy,82.84
+South Africa,Africa,2019,Diabetes Rate,9.61
+South Africa,Africa,2020,Obesity Rate,21.92
+South Africa,Africa,2020,Smoking Rate,18.13
+South Africa,Africa,2020,Anaemia Rate,11.95
+South Africa,Africa,2020,Life Expectancy,84.33
+South Africa,Africa,2020,Diabetes Rate,15.75
+South Africa,Africa,2021,Obesity Rate,26.89
+South Africa,Africa,2021,Smoking Rate,19.14
+South Africa,Africa,2021,Anaemia Rate,36.57
+South Africa,Africa,2021,Life Expectancy,77.56
+South Africa,Africa,2021,Diabetes Rate,11.0
+South Africa,Africa,2022,Obesity Rate,26.65
+South Africa,Africa,2022,Smoking Rate,11.81
+South Africa,Africa,2022,Anaemia Rate,26.97
+South Africa,Africa,2022,Life Expectancy,66.69
+South Africa,Africa,2022,Diabetes Rate,12.08
+South Africa,Africa,2023,Obesity Rate,26.06
+South Africa,Africa,2023,Smoking Rate,17.86
+South Africa,Africa,2023,Anaemia Rate,29.32
+South Africa,Africa,2023,Life Expectancy,83.39
+South Africa,Africa,2023,Diabetes Rate,14.1
+Japan,Asia,2015,Obesity Rate,19.73
+Japan,Asia,2015,Smoking Rate,19.68
+Japan,Asia,2015,Anaemia Rate,22.33
+Japan,Asia,2015,Life Expectancy,69.88
+Japan,Asia,2015,Diabetes Rate,14.11
+Japan,Asia,2016,Obesity Rate,27.99
+Japan,Asia,2016,Smoking Rate,25.59
+Japan,Asia,2016,Anaemia Rate,38.23
+Japan,Asia,2016,Life Expectancy,66.91
+Japan,Asia,2016,Diabetes Rate,4.54
+Japan,Asia,2017,Obesity Rate,27.85
+Japan,Asia,2017,Smoking Rate,20.74
+Japan,Asia,2017,Anaemia Rate,42.22
+Japan,Asia,2017,Life Expectancy,81.62
+Japan,Asia,2017,Diabetes Rate,10.61
+Japan,Asia,2018,Obesity Rate,24.91
+Japan,Asia,2018,Smoking Rate,22.71
+Japan,Asia,2018,Anaemia Rate,34.25
+Japan,Asia,2018,Life Expectancy,67.47
+Japan,Asia,2018,Diabetes Rate,6.91
+Japan,Asia,2019,Obesity Rate,19.76
+Japan,Asia,2019,Smoking Rate,15.42
+Japan,Asia,2019,Anaemia Rate,20.29
+Japan,Asia,2019,Life Expectancy,65.6
+Japan,Asia,2019,Diabetes Rate,6.97
+Japan,Asia,2020,Obesity Rate,27.93
+Japan,Asia,2020,Smoking Rate,22.21
+Japan,Asia,2020,Anaemia Rate,39.93
+Japan,Asia,2020,Life Expectancy,67.68
+Japan,Asia,2020,Diabetes Rate,12.39
+Japan,Asia,2021,Obesity Rate,36.62
+Japan,Asia,2021,Smoking Rate,17.2
+Japan,Asia,2021,Anaemia Rate,31.96
+Japan,Asia,2021,Life Expectancy,81.2
+Japan,Asia,2021,Diabetes Rate,14.76
+Japan,Asia,2022,Obesity Rate,29.93
+Japan,Asia,2022,Smoking Rate,15.74
+Japan,Asia,2022,Anaemia Rate,32.5
+Japan,Asia,2022,Life Expectancy,76.99
+Japan,Asia,2022,Diabetes Rate,6.9
+Japan,Asia,2023,Obesity Rate,31.05
+Japan,Asia,2023,Smoking Rate,26.36
+Japan,Asia,2023,Anaemia Rate,38.77
+Japan,Asia,2023,Life Expectancy,71.45
+Japan,Asia,2023,Diabetes Rate,7.8
